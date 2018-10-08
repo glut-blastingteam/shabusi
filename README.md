@@ -1,2 +1,2 @@
-# shabusi
-windows双进程保护
+# shabusi - Is it shabisi? No, it's shabusi.
+Windows dual thread protection
